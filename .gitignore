@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database
+db.sqlite3
+db.sqlite3-journal
+media/resumes/
+media/
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Large media / screen recordings
+*.mov
+*.mp4
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Environment variables
+.env
+.env.*
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
